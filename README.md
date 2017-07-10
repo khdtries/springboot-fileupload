@@ -23,7 +23,7 @@ Provided there are no changes on 'applicaition.properties' file, following direc
 - metadataLoc/`metadata` <-- this contains metadata
 - metadataLoc/`filesUploaded` <-- this contains uploaded files
 
-* In case of executing 'java -jar' syntax, the above directories will be created in the same directory.
+* In case of executing 'java -jar' command, the above directories will be created in the same directory.
 * In case of executing AppMain class on ide, the above directories will be created in the project directory.
 
 #### **_`Default log file name is 'springboot-fileupload.log'`_**
